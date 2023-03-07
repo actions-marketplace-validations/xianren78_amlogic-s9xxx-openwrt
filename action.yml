@@ -1,4 +1,4 @@
-name: "Make OpenWrt"
+name: "TN3399 OpenWrt"
 author: "https://github.com/ophub/amlogic-s9xxx-openwrt"
 description: "Support Amlogic, Rockchip and Allwinner boxes."
 inputs:
